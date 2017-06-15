@@ -65,7 +65,6 @@ typings/
 
 # PROJECT configurations
 dist
-lib
 coverage
 sandbox/rd3g.sandbox.bundle.js.map
 gen-docs
